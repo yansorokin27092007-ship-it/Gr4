@@ -19,6 +19,7 @@ void main3() {
 	printf("2. Начало анализируемого интервала\n");
 	printf("3. Конец анализируемого интервала\n");
 	printf("БИБИБИБИБИ");
+	printf("AVAVAVAVAVAVAVV");
 
 	int n = scanf("%d%d%d", &a, &b, &c);
 
